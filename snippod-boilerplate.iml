@@ -4,7 +4,7 @@
     <facet type="django" name="Django">
       <configuration>
         <option name="rootFolder" value="$MODULE_DIR$" />
-        <option name="settingsModule" value="snippod_boilerplate/settings/dev.py" />
+        <option name="settingsModule" value="southeast-fl-jews/settings/dev.py" />
         <option name="manageScript" value="manage.py" />
         <option name="environment" value="&lt;map/&gt;" />
       </configuration>
@@ -14,22 +14,22 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/djangoapps" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/snippod_boilerplate" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/snippod_webapp/client/scripts" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/snippod_webapp/client/styles" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/snippod_webapp/grunt" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/snippod_webapp/server" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/southeast-fl-jews" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/webapp/client/scripts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/webapp/client/styles" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/webapp/grunt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/webapp/server" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/backup" />
       <excludeFolder url="file://$MODULE_DIR$/logs" />
-      <excludeFolder url="file://$MODULE_DIR$/snippod_webapp/.tmp" />
-      <excludeFolder url="file://$MODULE_DIR$/snippod_webapp/client/bower_components" />
-      <excludeFolder url="file://$MODULE_DIR$/snippod_webapp/dist" />
-      <excludeFolder url="file://$MODULE_DIR$/snippod_webapp/node_modules" />
-      <excludeFolder url="file://$MODULE_DIR$/snippod_webapp/scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/webapp/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/webapp/client/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/webapp/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/webapp/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/webapp/scripts" />
       <excludeFolder url="file://$MODULE_DIR$/staticfiles" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
-    <orderEntry type="jdk" jdkName="snippod-boilerplate/venv" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="snippod-southeast-fl-jews/venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TemplatesService">
