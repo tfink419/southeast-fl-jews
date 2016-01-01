@@ -3,13 +3,13 @@ from django.contrib import admin
 
 # from rest_framework.routers import DefaultRouter
 
-# from southeast-fl-jews.views import api_root
+# from southeast_fl_jews.views import api_root
 
 # from rest_framework_nested import routers
 #
 # from authentication.views import AccountViewSet, LoginView, LogoutView
 # from postsold.views import AccountPostsViewSet, PostViewSet
-# from southeast-fl-jews.views import IndexView
+# from southeast_fl_jews.views import IndexView
 #
 # router = routers.SimpleRouter()
 # router.register(r'accounts', AccountViewSet)

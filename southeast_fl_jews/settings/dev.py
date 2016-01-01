@@ -7,8 +7,8 @@ For more information on this file, see
 https://github.com/shalomeir/snippod-boilerplate
 
 """
-from southeast-fl-jews.settings.common import *
-# from southeast-fl-jews.settings.config_dev import *
+from southeast_fl_jews.settings.common import *
+# from southeast_fl_jews.settings.config_dev import *
 
 
 # SECURITY WARNING: keep the secret key used in production secret!

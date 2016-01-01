@@ -10,7 +10,7 @@ webapp/.tmp
 webapp/.grunt
 webapp/.yo-rc.json
 
-southeast-fl-jews/.DS_Store
+southeast_fl_jews/.DS_Store
 
 # python fabric
 fabric/

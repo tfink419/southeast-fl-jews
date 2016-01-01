@@ -47,7 +47,7 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 )
 
-ROOT_URLCONF = 'southeast-fl-jews.urls'
+ROOT_URLCONF = 'southeast_fl_jews.urls'
 
 # TEMPLATES = [
 #     {
@@ -65,7 +65,7 @@ ROOT_URLCONF = 'southeast-fl-jews.urls'
 #         },
 #     ]
 
-WSGI_APPLICATION = 'southeast-fl-jews.wsgi.application'
+WSGI_APPLICATION = 'southeast_fl_jews.wsgi.application'
 
 
 # Internationalization

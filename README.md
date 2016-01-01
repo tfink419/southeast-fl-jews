@@ -38,7 +38,7 @@ In the ['server' Root](/) directory **'./'**
 In the ['webapp'](webapp) directory **'./webapp/'**
 
 - `grunt serve` for previewing your site/app on a development server.
- (If you want live debugging, un-comment [django dev setting file](southeast-fl-jews/settings/dev.py) 69 line
+ (If you want live debugging, un-comment [django dev setting file](southeast_fl_jews/settings/dev.py) 69 line
  and install [LiveReload chrome extension](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei).)
 - `grunt build` for build site/app for django 'collectstatic' command.
 
